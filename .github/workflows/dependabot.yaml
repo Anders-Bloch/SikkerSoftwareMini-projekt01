@@ -4,4 +4,4 @@ updates:
     # path to build.gradle
     directory: "/BenchmarkRefitted"
     schedule:
-      interval: "daily"
+      interval: "daily" 
