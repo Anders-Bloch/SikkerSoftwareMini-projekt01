@@ -18,7 +18,7 @@ dependencies {
     compile group: 'org.springframework', name: 'spring-context', version: '4.3.29.RELEASE'
     compile group: 'org.springframework', name: 'spring-jdbc', version: '5.3.5'
     compile group: 'org.springframework', name: 'spring-tx', version: '5.3.5'
-    compile group: 'org.springframework', name: 'spring-web', version: '5.3.5'
+    compile group: 'org.springframework', name: 'spring-web', version: '5.3.9'
 
     compile group: 'org.owasp.esapi', name: 'esapi', version: '2.2.3.0'
     providedCompile group: 'javax', name: 'javaee-api', version: '7.0'
